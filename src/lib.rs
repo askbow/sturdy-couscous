@@ -1,4 +1,4 @@
-use std::ffi::{CString};
+use std::ffi::CString;
 
 pub mod hello {
     pub fn hello() -> String {
